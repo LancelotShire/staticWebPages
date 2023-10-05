@@ -1,2 +1,2 @@
 # staticWebPages
-LanelotShire's GitHub pages repository
+LanelotShire's personal pages
